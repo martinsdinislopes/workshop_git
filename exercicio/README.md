@@ -20,15 +20,15 @@ Podes removê-los se não quiseres esse aspeto ou se preferires menos pedidos ex
 
 <p align="center"><em>Badges de exemplo: remove os serviços que não usas. Não são ligações para perfis pessoais.</em></p>
 
-<h1 align="center">Olá, sou [NOME OU PSEUDÓNIMO] 👋</h1>
+<h1 align="center">Olá, sou o Dinis 👋</h1>
 
 <h3 align="left">👩‍💻 Sobre mim</h3>
 
 <p align="left">
-  Estudo Bioinformática e tenho curiosidade sobre [TEMA].<br>
-  🔭 Gostava de investigar [PERGUNTA SIMPLES].<br>
-  📚 Neste momento estou a aprender [ALGO QUE ESTEJAS A APRENDER].<br>
-  ⚡ Fora das aulas gosto de [ATIVIDADE OPCIONAL].
+  Estudo matematica aplicada e tenho curiosidade sobre git.<br>
+  🔭 Gostava de investigar AI.<br>
+  📚 Neste momento estou a aprender java.<br>
+  ⚡ Fora das aulas gosto de andar de mota.
 </p>
 
 <h3 align="left">🛠 Linguagens e ferramentas</h3>
